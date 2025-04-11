@@ -14,6 +14,7 @@ const NavbarTop = () => {
         <h1 className="text-white text-sm">English</h1>
         <ExpandMoreIcon className="text-white" />
       </div>
+      <h1>salom uzb</h1>
     </div>
   );
 };
